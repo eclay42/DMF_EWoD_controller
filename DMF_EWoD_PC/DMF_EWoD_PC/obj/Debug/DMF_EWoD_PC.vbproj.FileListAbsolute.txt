@@ -1,0 +1,12 @@
+D:\Backup\Dell\GalileoTest\GalileoTest\bin\Debug\GalileoTest.exe.config
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.exe
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.xml
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.pdb
+D:\Backup\Dell\DMF_EWoD_PC\GalileoTest\bin\Debug\GalileoTest.exe.config
+D:\Backup\Dell\DMF_EWoD_PC\GalileoTest\obj\Debug\GalileoTest.exe
+D:\Backup\Dell\DMF_EWoD_PC\GalileoTest\obj\Debug\GalileoTest.xml
+D:\Backup\Dell\DMF_EWoD_PC\GalileoTest\obj\Debug\GalileoTest.pdb
+D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\GalileoTest.exe.config
+D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.exe
+D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.xml
+D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.pdb

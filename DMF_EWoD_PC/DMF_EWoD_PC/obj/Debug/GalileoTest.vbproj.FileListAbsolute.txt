@@ -1,0 +1,22 @@
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\bin\Debug\GalileoTest.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\bin\Debug\GalileoTest.exe
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\bin\Debug\GalileoTest.pdb
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\bin\Debug\GalileoTest.xml
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.vbprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.Form1.resources
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.Resources.resources
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.vbproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.exe
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.xml
+c:\users\eric\documents\visual studio 2015\Projects\GalileoTest\GalileoTest\obj\Debug\GalileoTest.pdb
+D:\Backup\Dell\GalileoTest\GalileoTest\bin\Debug\GalileoTest.exe.config
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.exe
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.xml
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.pdb
+D:\Backup\Dell\GalileoTest\GalileoTest\bin\Debug\GalileoTest.exe
+D:\Backup\Dell\GalileoTest\GalileoTest\bin\Debug\GalileoTest.pdb
+D:\Backup\Dell\GalileoTest\GalileoTest\bin\Debug\GalileoTest.xml
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.vbprojResolveAssemblyReference.cache
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.Form1.resources
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.Resources.resources
+D:\Backup\Dell\GalileoTest\GalileoTest\obj\Debug\GalileoTest.vbproj.GenerateResource.Cache
