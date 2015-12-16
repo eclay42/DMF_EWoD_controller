@@ -208,7 +208,7 @@ Partial Class Form1
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Arduino DMF Controller"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

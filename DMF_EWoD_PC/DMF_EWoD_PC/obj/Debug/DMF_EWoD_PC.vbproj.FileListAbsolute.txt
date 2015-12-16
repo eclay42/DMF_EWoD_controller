@@ -10,3 +10,14 @@ D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\GalileoTest.exe.config
 D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.exe
 D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.xml
 D:\Backup\Dell\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\GalileoTest.pdb
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\ArduinoDMFController.exe.config
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\ArduinoDMFController.exe
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\ArduinoDMFController.pdb
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\bin\Debug\ArduinoDMFController.xml
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\DMF_EWoD_PC.vbprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\ArduinoDMFController.Form1.resources
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\ArduinoDMFController.Resources.resources
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\DMF_EWoD_PC.vbproj.GenerateResource.Cache
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\ArduinoDMFController.exe
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\ArduinoDMFController.xml
+C:\Users\Eric\Documents\GitHub\DMF_EWoD_controller\DMF_EWoD_PC\DMF_EWoD_PC\obj\Debug\ArduinoDMFController.pdb
